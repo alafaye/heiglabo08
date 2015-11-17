@@ -11,6 +11,7 @@
  * Compilateur : g++
  * Debuggueur : gdb
  */
+
 /*
  * Pour Windows
  * #define _CRT_SECURE_NO_WARNINGS

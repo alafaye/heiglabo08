@@ -19,8 +19,6 @@
 
 #include <stdio.h>
 
-#include "horaire.h"
-
 #define JOURNEE 86400
 #define HEURE 3600
 #define MINUTE 60
