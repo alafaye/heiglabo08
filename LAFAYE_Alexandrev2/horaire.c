@@ -77,7 +77,7 @@ void heure_arrivee(void){
 
     seconde_2_heure(heure, arrivee);
 
-    printf("L'heure d'arrivee sera %2d:%2d:%2d.\n",
+    printf("L'heure d'arrivee sera %02d:%02d:%02d.\n",
 	    heure[0], heure[1], heure[2]);
 
 }
@@ -113,7 +113,7 @@ void temps_trajet(void){
 
     seconde_2_heure(heure, temps_trajet_tot);
 
-    printf("Le temps de trajet total est %2d:%2d:%2d.\n",
+    printf("Le temps de trajet total est %02d:%02d:%02d.\n",
 	    heure[0], heure[1], heure[2]);
 }
 
